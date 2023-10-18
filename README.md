@@ -4,9 +4,9 @@
 <body> 
 <ul> <strong>Dairy</strong>
   <li>yogurt</li>
-  <a href=""><img src="" alt="" width="" height="">
+  <a href=""><img src="" alt="" width="" height=""></a>
   <li>goat cheese</li>
-    <a href=""><img src="" alt="" width="" height="">
+  <a href="https://www.soignon.com/soft-goat-cheese-brie-style-100g-portion"><img src="goat cheese.png" alt="" width="" height=""></a>
   <li>american cheese</li>
       <a href=""><img src="" alt="" width="" height="">
   <li>parmesan cheese</li>
