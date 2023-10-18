@@ -4,17 +4,28 @@
 <body> 
 <ul> <strong>Dairy</strong>
   <li>yogurt</li>
+  <a href=""><img src="" alt="" width="" height="">
   <li>goat cheese</li>
+    <a href=""><img src="" alt="" width="" height="">
   <li>american cheese</li>
+      <a href=""><img src="" alt="" width="" height="">
   <li>parmesan cheese</li>
+        <a href=""><img src="" alt="" width="" height="">
   <li>milk</li>
+          <a href=""><img src="" alt="" width="" height="">
 </ul
   <ul> <strong>Meat</strong>
+    <a href=""><img src="" alt="" width="" height="">
   <li>chicken feet</li>
+      <a href=""><img src="" alt="" width="" height="">
   <li>steak</li>
+        <a href=""><img src="" alt="" width="" height="">
   <li>chicken nuggets</li>
+          <a href=""><img src="" alt="" width="" height="">
   <li>pork</li>
+            <a href=""><img src="" alt="" width="" height="">
   <li>sausage</li>
+              <a href=""><img src="" alt="" width="" height="">
 </ul>
 <ul> <strong>Stationary</strong>
   <li>pencils</li>
