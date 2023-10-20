@@ -44,7 +44,7 @@
   <li>cookies</li>
   <a href=""><img src="cookies2.png" alt="cookies" width="70" height="70"></a>
   <li>brownies</li>
-  <a href=""><img src="brownies.png" alt="brownies" width="70" height="70"></a>
+  <a href=""><img src="brownies2.png" alt="brownies" width="70" height="70"></a>
   <li>candy</li>
   <a href=""><img src="candy2.png" alt="candy" width="70" height="70"></a>
   <li>groanola bars</li>
