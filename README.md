@@ -36,7 +36,7 @@
   <li>sticky notes</li>
   <a href=""><img src="postit.png" alt="sticky paper" width="70" height="70"></a>
   <li>staples</li>
-  <a href=""><img src="staples.png" alt="staple" width="70" height="70"></a>
+  <a href=""><img src="stapeles.png" alt="staple" width="70" height="70"></a>
 </ul>
 <ul> <strong>Snacks</strong>
   <li>chips</li
